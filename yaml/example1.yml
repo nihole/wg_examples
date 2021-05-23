@@ -1,0 +1,20 @@
+statements:
+# The first statement should be a root !!
+- id: '++0++'
+  text: "Alice was at home yesterday at 7 p.m."
+  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_0'
+  direct_contradictions:
+  - id: '--1--'
+  indirect_contradictions:
+  - id: 
+  complement: 
+  - id:
+- id: '--1--'
+  text: "Alice was at the theater yesterday at 7 p.m."
+  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_1'
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id: 
