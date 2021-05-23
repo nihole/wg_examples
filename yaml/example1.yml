@@ -10,7 +10,7 @@ statements:
   complement: 
   - id:
 - id: '--1--'
-  text: "Alice was at the theater yesterday at 19.00"
+  text: "Alice was at the theater yesterday at 7 p.m."
   wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_1'
   direct_contradictions:
   - id: 
