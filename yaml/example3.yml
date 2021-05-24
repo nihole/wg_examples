@@ -1,0 +1,58 @@
+statements:
+# The first statement should be a root !!
+- id: '++0++'
+  text: "Alice was at home yesterday at 7 p.m."
+  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_0'
+  direct_contradictions:
+  - id: '--1--'
+  indirect_contradictions:
+  - id: '--2--'
+  complement: 
+  - id:
+- id: '--1--'
+  text: "Alice was at the theater yesterday at 7 p.m."
+  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_1'
+  direct_contradictions:
+  - id: 
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id: '++1++'
+- id: '++1++'
+  text: "Alice was not at the theater yesterday at 7 p.m."
+  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_1'
+  direct_contradictions:
+  - id: '++3++'
+  - id: '++4++'
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '--2--'
+  text: "Yesterday at 7 pm Bob came to Alice, rang the doorbell, but no one opened"
+  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_2'
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id:
+  complement:
+  - id:
+- id: '++3++'
+  text: "Bob saw her at the theater yesterday at 7 p.m."
+  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_3'
+  direct_contradictions:
+  - id:
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id:
+- id: '++4++'
+  text: "Bob saw her at the theater yesterday at 7 p.m."
+  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_4'
+  direct_contradictions:
+  - id:   
+  indirect_contradictions:
+  - id: 
+  complement:
+  - id: 
+
