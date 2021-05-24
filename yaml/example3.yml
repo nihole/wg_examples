@@ -29,7 +29,7 @@ statements:
   complement:
   - id:
 - id: '--2--'
-  text: "Yesterday at 7 pm Bob came to Alice, rang the doorbell, but no one opened"
+  text: "Yesterday at 7 p.m. Eve came to Alice, rang the doorbell, but no one opened"
   wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_2'
   direct_contradictions:
   - id:

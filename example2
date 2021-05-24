@@ -11,8 +11,8 @@ theater yesterday
 at 7 p.m."]
 	node [color=red fontcolor=black href="https://github.com/nihole/wg_examples/wiki/examples_nw_2"]
 	"--2--" [label="--2--
-Yesterday at 7 pm
-Bob came to Alice,
+Yesterday at 7 p.m.
+Eve came to Alice,
 rang the doorbell,
 but no one opened"]
 	"++0++" -> "--1--"
