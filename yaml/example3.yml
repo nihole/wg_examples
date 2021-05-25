@@ -38,7 +38,7 @@ statements:
   complement:
   - id:
 - id: '++3++'
-  text: "Bob saw her at the theater yesterday at 7 p.m."
+  text: "Bob saw her at the theatre yesterday at 7 p.m."
   wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_3'
   direct_contradictions:
   - id:
@@ -47,7 +47,7 @@ statements:
   complement:
   - id:
 - id: '++4++'
-  text: "Bob saw her at the theater yesterday at 7 p.m."
+  text: "Bob saw her at the theatre yesterday at 7 p.m."
   wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_4'
   direct_contradictions:
   - id:   

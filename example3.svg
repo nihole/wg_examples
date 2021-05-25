@@ -80,11 +80,11 @@
 <!-- ++3++ -->
 <g id="node5" class="node">
 <title>++3++</title>
-<g id="a_node5"><a xlink:href="https://github.com/nihole/wg_examples/wiki/examples_pw_3" xlink:title="++3++&#10;Bob saw her at&#10;the theater yesterday&#10;at 7 p.m.">
+<g id="a_node5"><a xlink:href="https://github.com/nihole/wg_examples/wiki/examples_pw_3" xlink:title="++3++&#10;Bob saw her at&#10;the theatre yesterday&#10;at 7 p.m.">
 <ellipse fill="none" stroke="red" cx="91.22" cy="-48.08" rx="91.43" ry="48.17"/>
 <text text-anchor="middle" x="91.22" y="-66.88" font-family="Times,serif" font-size="14.00">++3++</text>
 <text text-anchor="middle" x="91.22" y="-51.88" font-family="Times,serif" font-size="14.00">Bob saw her at</text>
-<text text-anchor="middle" x="91.22" y="-36.88" font-family="Times,serif" font-size="14.00">the theater yesterday</text>
+<text text-anchor="middle" x="91.22" y="-36.88" font-family="Times,serif" font-size="14.00">the theatre yesterday</text>
 <text text-anchor="middle" x="91.22" y="-21.88" font-family="Times,serif" font-size="14.00">at 7 p.m.</text>
 </a>
 </g>
@@ -98,11 +98,11 @@
 <!-- ++4++ -->
 <g id="node6" class="node">
 <title>++4++</title>
-<g id="a_node6"><a xlink:href="https://github.com/nihole/wg_examples/wiki/examples_pw_4" xlink:title="++4++&#10;Bob saw her at&#10;the theater yesterday&#10;at 7 p.m.">
+<g id="a_node6"><a xlink:href="https://github.com/nihole/wg_examples/wiki/examples_pw_4" xlink:title="++4++&#10;Bob saw her at&#10;the theatre yesterday&#10;at 7 p.m.">
 <ellipse fill="none" stroke="red" cx="291.22" cy="-48.08" rx="91.43" ry="48.17"/>
 <text text-anchor="middle" x="291.22" y="-66.88" font-family="Times,serif" font-size="14.00">++4++</text>
 <text text-anchor="middle" x="291.22" y="-51.88" font-family="Times,serif" font-size="14.00">Bob saw her at</text>
-<text text-anchor="middle" x="291.22" y="-36.88" font-family="Times,serif" font-size="14.00">the theater yesterday</text>
+<text text-anchor="middle" x="291.22" y="-36.88" font-family="Times,serif" font-size="14.00">the theatre yesterday</text>
 <text text-anchor="middle" x="291.22" y="-21.88" font-family="Times,serif" font-size="14.00">at 7 p.m.</text>
 </a>
 </g>
