@@ -24,11 +24,11 @@
 <!-- &#45;&#45;1&#45;&#45; -->
 <g id="node2" class="node">
 <title>&#45;&#45;1&#45;&#45;</title>
-<g id="a_node2"><a xlink:href="https://github.com/nihole/wg_examples/wiki/examples_nw_1" xlink:title="&#45;&#45;1&#45;&#45;&#10;Alice was at the&#10;theater yesterday&#10;at 7 p.m.">
+<g id="a_node2"><a xlink:href="https://github.com/nihole/wg_examples/wiki/examples_nw_1" xlink:title="&#45;&#45;1&#45;&#45;&#10;Alice was at the&#10;theatre yesterday&#10;at 7 p.m.">
 <ellipse fill="none" stroke="red" cx="77.07" cy="-48.08" rx="77.15" ry="48.17"/>
 <text text-anchor="middle" x="77.07" y="-66.88" font-family="Times,serif" font-size="14.00">&#45;&#45;1&#45;&#45;</text>
 <text text-anchor="middle" x="77.07" y="-51.88" font-family="Times,serif" font-size="14.00">Alice was at the</text>
-<text text-anchor="middle" x="77.07" y="-36.88" font-family="Times,serif" font-size="14.00">theater yesterday</text>
+<text text-anchor="middle" x="77.07" y="-36.88" font-family="Times,serif" font-size="14.00">theatre yesterday</text>
 <text text-anchor="middle" x="77.07" y="-21.88" font-family="Times,serif" font-size="14.00">at 7 p.m.</text>
 </a>
 </g>

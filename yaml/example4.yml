@@ -20,7 +20,7 @@ statements:
   complement:
   - id:
 - id: '--1--'
-  text: "Alice was at the theater yesterday at 7 p.m."
+  text: "Alice was at the theatre yesterday at 7 p.m."
   wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_1'
   direct_contradictions:
   - id: 
@@ -102,7 +102,7 @@ statements:
   complement:
   - id: ''
 - id: '++5++'
-  text: "The surveillance camera shows that Alice went home at 5 pm and did not leave until the next morning"
+  text: "The surveillance camera shows that Alice went home at 5 p.m. and did not leave until the next morning"
   wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_5'
   direct_contradictions:
   - id: '--12--'

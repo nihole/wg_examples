@@ -7,7 +7,7 @@ at 7 p.m."]
 	node [color=red fontcolor=black href="https://github.com/nihole/wg_examples/wiki/examples_nw_1"]
 	"--1--" [label="--1--
 Alice was at the
-theater yesterday
+theatre yesterday
 at 7 p.m."]
 	node [color=red fontcolor=black href="https://github.com/nihole/wg_examples/wiki/examples_nw_2"]
 	"--2--" [label="--2--
