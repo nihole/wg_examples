@@ -16,7 +16,7 @@ statements:
   - id: '++5++'
   - id: '++6++'
   indirect_contradictions:
-  - id:
+  - id: null
   complement:
   - id:
 - id: '--1--'
