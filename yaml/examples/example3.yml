@@ -1,8 +1,7 @@
 statements:
-# The first statement should be a root !!
 - id: '++0++'
   text: "Alice was at home yesterday at 7 p.m."
-  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_0'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_0.md'
   direct_contradictions:
   - id: '--1--'
   indirect_contradictions:
@@ -11,7 +10,7 @@ statements:
   - id:
 - id: '--1--'
   text: "Alice was at the theatre yesterday at 7 p.m."
-  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_1'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_1.md'
   direct_contradictions:
   - id: 
   indirect_contradictions:
@@ -20,7 +19,7 @@ statements:
   - id: '++1++'
 - id: '++1++'
   text: "Alice was not at the theatre yesterday at 7 p.m."
-  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_1'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_1.md'
   direct_contradictions:
   - id: '++3++'
   - id: '++4++'
@@ -30,7 +29,7 @@ statements:
   - id:
 - id: '--2--'
   text: "Yesterday at 7 p.m. Eve came to Alice, rang the doorbell, but no one opened"
-  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_2'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_2.md'
   direct_contradictions:
   - id:
   indirect_contradictions:
@@ -39,7 +38,7 @@ statements:
   - id:
 - id: '++3++'
   text: "Bob saw her at the theatre yesterday at 7 p.m."
-  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_3'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_3.md'
   direct_contradictions:
   - id:
   indirect_contradictions:
@@ -48,7 +47,7 @@ statements:
   - id:
 - id: '++4++'
   text: "Bob saw her at the theatre yesterday at 7 p.m."
-  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_4'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_4.md'
   direct_contradictions:
   - id:   
   indirect_contradictions:
