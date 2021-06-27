@@ -1,31 +1,31 @@
 digraph G {
-	node [color=blue fontcolor=black href="https://github.com/nihole/wg_examples/wiki/examples_pw_0"]
+	node [color=blue fontcolor=black href="https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_0"]
 	"++0++" [label="++0++
 Alice was at
 home yesterday
 at 7 p.m."]
-	node [color=red fontcolor=black href="https://github.com/nihole/wg_examples/wiki/examples_nw_1"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_1"]
 	"--1--" [label="--1--
 Alice was at the
 theatre yesterday
 at 7 p.m."]
-	node [color=blue fontcolor=black href="https://github.com/nihole/wg_examples/wiki/examples_nw_1"]
+	node [color=blue fontcolor=black href="https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_1"]
 	"++1++" [label="++1++
 Alice was not at
 the theatre yesterday
 at 7 p.m."]
-	node [color=red fontcolor=black href="https://github.com/nihole/wg_examples/wiki/examples_nw_2"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_2"]
 	"--2--" [label="--2--
 Yesterday at 7 p.m.
 Eve came to Alice,
 rang the doorbell,
 but no one opened"]
-	node [color=red fontcolor=black href="https://github.com/nihole/wg_examples/wiki/examples_pw_3"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_3"]
 	"++3++" [label="++3++
 Bob saw her at
 the theatre yesterday
 at 7 p.m."]
-	node [color=red fontcolor=black href="https://github.com/nihole/wg_examples/wiki/examples_pw_4"]
+	node [color=red fontcolor=black href="https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_4"]
 	"++4++" [label="++4++
 Bob saw her at
 the theatre yesterday

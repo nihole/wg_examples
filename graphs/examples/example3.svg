@@ -12,7 +12,7 @@
 <!-- ++0++ -->
 <g id="node1" class="node">
 <title>++0++</title>
-<g id="a_node1"><a xlink:href="https://github.com/nihole/wg_examples/wiki/examples_pw_0" xlink:title="++0++&#10;Alice was at&#10;home yesterday&#10;at 7 p.m.">
+<g id="a_node1"><a xlink:href="https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_0" xlink:title="++0++&#10;Alice was at&#10;home yesterday&#10;at 7 p.m.">
 <ellipse fill="none" stroke="blue" cx="282.22" cy="-465.8" rx="72.66" ry="48.17"/>
 <text text-anchor="middle" x="282.22" y="-484.6" font-family="Times,serif" font-size="14.00">++0++</text>
 <text text-anchor="middle" x="282.22" y="-469.6" font-family="Times,serif" font-size="14.00">Alice was at</text>
@@ -24,7 +24,7 @@
 <!-- &#45;&#45;1&#45;&#45; -->
 <g id="node2" class="node">
 <title>&#45;&#45;1&#45;&#45;</title>
-<g id="a_node2"><a xlink:href="https://github.com/nihole/wg_examples/wiki/examples_nw_1" xlink:title="&#45;&#45;1&#45;&#45;&#10;Alice was at the&#10;theatre yesterday&#10;at 7 p.m.">
+<g id="a_node2"><a xlink:href="https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_1" xlink:title="&#45;&#45;1&#45;&#45;&#10;Alice was at the&#10;theatre yesterday&#10;at 7 p.m.">
 <ellipse fill="none" stroke="red" cx="191.22" cy="-323.02" rx="77.15" ry="48.17"/>
 <text text-anchor="middle" x="191.22" y="-341.82" font-family="Times,serif" font-size="14.00">&#45;&#45;1&#45;&#45;</text>
 <text text-anchor="middle" x="191.22" y="-326.82" font-family="Times,serif" font-size="14.00">Alice was at the</text>
@@ -42,7 +42,7 @@
 <!-- &#45;&#45;2&#45;&#45; -->
 <g id="node4" class="node">
 <title>&#45;&#45;2&#45;&#45;</title>
-<g id="a_node4"><a xlink:href="https://github.com/nihole/wg_examples/wiki/examples_nw_2" xlink:title="&#45;&#45;2&#45;&#45;&#10;Yesterday at 7 p.m.&#10;Eve came to Alice,&#10;rang the doorbell,&#10;but no one opened">
+<g id="a_node4"><a xlink:href="https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_2" xlink:title="&#45;&#45;2&#45;&#45;&#10;Yesterday at 7 p.m.&#10;Eve came to Alice,&#10;rang the doorbell,&#10;but no one opened">
 <ellipse fill="none" stroke="red" cx="374.22" cy="-323.02" rx="87.86" ry="58.88"/>
 <text text-anchor="middle" x="374.22" y="-349.32" font-family="Times,serif" font-size="14.00">&#45;&#45;2&#45;&#45;</text>
 <text text-anchor="middle" x="374.22" y="-334.32" font-family="Times,serif" font-size="14.00">Yesterday at 7 p.m.</text>
@@ -61,7 +61,7 @@
 <!-- ++1++ -->
 <g id="node3" class="node">
 <title>++1++</title>
-<g id="a_node3"><a xlink:href="https://github.com/nihole/wg_examples/wiki/examples_nw_1" xlink:title="++1++&#10;Alice was not at&#10;the theatre yesterday&#10;at 7 p.m.">
+<g id="a_node3"><a xlink:href="https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_1" xlink:title="++1++&#10;Alice was not at&#10;the theatre yesterday&#10;at 7 p.m.">
 <ellipse fill="none" stroke="blue" cx="191.22" cy="-180.25" rx="91.43" ry="48.17"/>
 <text text-anchor="middle" x="191.22" y="-199.05" font-family="Times,serif" font-size="14.00">++1++</text>
 <text text-anchor="middle" x="191.22" y="-184.05" font-family="Times,serif" font-size="14.00">Alice was not at</text>
@@ -80,7 +80,7 @@
 <!-- ++3++ -->
 <g id="node5" class="node">
 <title>++3++</title>
-<g id="a_node5"><a xlink:href="https://github.com/nihole/wg_examples/wiki/examples_pw_3" xlink:title="++3++&#10;Bob saw her at&#10;the theatre yesterday&#10;at 7 p.m.">
+<g id="a_node5"><a xlink:href="https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_3" xlink:title="++3++&#10;Bob saw her at&#10;the theatre yesterday&#10;at 7 p.m.">
 <ellipse fill="none" stroke="red" cx="91.22" cy="-48.08" rx="91.43" ry="48.17"/>
 <text text-anchor="middle" x="91.22" y="-66.88" font-family="Times,serif" font-size="14.00">++3++</text>
 <text text-anchor="middle" x="91.22" y="-51.88" font-family="Times,serif" font-size="14.00">Bob saw her at</text>
@@ -98,7 +98,7 @@
 <!-- ++4++ -->
 <g id="node6" class="node">
 <title>++4++</title>
-<g id="a_node6"><a xlink:href="https://github.com/nihole/wg_examples/wiki/examples_pw_4" xlink:title="++4++&#10;Bob saw her at&#10;the theatre yesterday&#10;at 7 p.m.">
+<g id="a_node6"><a xlink:href="https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_4" xlink:title="++4++&#10;Bob saw her at&#10;the theatre yesterday&#10;at 7 p.m.">
 <ellipse fill="none" stroke="red" cx="291.22" cy="-48.08" rx="91.43" ry="48.17"/>
 <text text-anchor="middle" x="291.22" y="-66.88" font-family="Times,serif" font-size="14.00">++4++</text>
 <text text-anchor="middle" x="291.22" y="-51.88" font-family="Times,serif" font-size="14.00">Bob saw her at</text>
