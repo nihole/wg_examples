@@ -2,7 +2,7 @@ statements:
 # The first statement should be a root !!
 - id: '++0++'
   text: "Alice was at home yesterday at 7 p.m."
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_0'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_0'
   direct_contradictions:
   - id: '--1--'
   indirect_contradictions:
@@ -11,7 +11,7 @@ statements:
   - id: '--0--'
 - id: '--0--'
   text: "Alice was not at home yesterday at 7 p.m."
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_0'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_0'
   direct_contradictions:
   - id: '++5++'
   - id: '++6++'
@@ -21,7 +21,7 @@ statements:
   - id:
 - id: '--1--'
   text: "Alice was at the theatre yesterday at 7 p.m."
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_1'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_1'
   direct_contradictions:
   - id: 
   indirect_contradictions:
@@ -30,7 +30,7 @@ statements:
   - id: '++1++'
 - id: '++1++'
   text: "Alice was not at the theatre yesterday at 7 p.m."
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_1'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_1'
   direct_contradictions:
   - id: '--3--'
   - id: '--4--'
@@ -40,7 +40,7 @@ statements:
   - id:
 - id: '--2--'
   text: "Yesterday at 7 p.m. Eve came to Alice, rang the doorbell, but nobody opened"
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_2'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_2'
   direct_contradictions:
   - id:
   indirect_contradictions:
@@ -49,7 +49,7 @@ statements:
   - id:
 - id: '--3--'
   text: "Bob saw her at the theatre yesterday at 7 p.m."
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_3'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_3'
   direct_contradictions:
   - id: '++10++'
   indirect_contradictions:
@@ -58,7 +58,7 @@ statements:
   - id:
 - id: '++10++'
   text: "Bob is lying"
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_10'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_10'
   direct_contradictions:
   - id:
   indirect_contradictions:
@@ -67,7 +67,7 @@ statements:
   - id: '--10--'
 - id: '--10--'
   text: "Bob is telling the truth"
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_10'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_10'
   direct_contradictions:
   - id:
   indirect_contradictions:
@@ -76,7 +76,7 @@ statements:
   - id:
 - id: '--4--'
   text: "Mike saw her at the theatre yesterday at 7 p.m."
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_4'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_4'
   direct_contradictions:
   - id: '++11++'
   indirect_contradictions:
@@ -85,7 +85,7 @@ statements:
   - id: 
 - id: '++11++'
   text: "Mike was mistaken and mistake another girl for Alice"
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_11'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_11'
   direct_contradictions:
   - id:
   indirect_contradictions:
@@ -94,7 +94,7 @@ statements:
   - id: '--11--'
 - id: '--11--'
   text: ""
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_11'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_11'
   direct_contradictions:
   - id:
   indirect_contradictions:
@@ -103,7 +103,7 @@ statements:
   - id: ''
 - id: '++5++'
   text: "The surveillance camera shows that Alice went home at 5 p.m. and did not leave until the next morning"
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_5'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_5'
   direct_contradictions:
   - id: '--12--'
   indirect_contradictions:
@@ -112,7 +112,7 @@ statements:
   - id: ''
 - id: '--12--'
   text: "Alice left and entered the house through the window"
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_12'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_12'
   direct_contradictions:
   - id: 
   indirect_contradictions:
@@ -121,7 +121,7 @@ statements:
   - id: '++12++'
 - id: '++12++'
   text: ""
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_12'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_12'
   direct_contradictions:
   - id: 
   indirect_contradictions:
@@ -130,7 +130,7 @@ statements:
   - id:
 - id: '++6++'
   text: "Alice says that she was that time at home"
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_6'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_6'
   direct_contradictions:
   - id: '--13--'
   indirect_contradictions:
@@ -139,7 +139,7 @@ statements:
   - id: 
 - id: '--13--'
   text: "Alice is lying"
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_nw_13'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_nw_13'
   direct_contradictions:
   - id:
   indirect_contradictions:
@@ -148,7 +148,7 @@ statements:
   - id: '++13++'
 - id: '++13++'
   text: ""
-  wiki_link: 'https://github.com/nihole/wg_examples/wiki/examples_pw_13'
+  wiki_link: 'https://github.com/nihole/wg_examples/blob/main/wiki/examples_pw_13'
   direct_contradictions:
   - id:
   indirect_contradictions:
