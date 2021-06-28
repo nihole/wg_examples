@@ -8,7 +8,7 @@ We can read this as:
 
 There is no strong dependency here, because in fact there are many possible reasons why Alice did not open the door.
 
-We can question this statement also creating new 'wave' or 'waves' of contradictions and proofs but for example purpose we considered that statements as a truth. We believe Eve that she really 'yesterday at 7 p.m. Eve came to Alice, rang the doorbell, but nobody opened'.
+We can question this statement by also creating a new "wave" or "wave" of contradiction and evidence, but, in this example, we decided to consider this statement as true. We believe Eve that she really 'yesterday at 7 p.m. Eve came to Alice, rang the doorbell, but nobody opened'.
 
 In this case this statement is a **dead-end node**.
 
